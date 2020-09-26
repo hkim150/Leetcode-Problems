@@ -24,4 +24,3 @@ Return:
     "14",
     "FizzBuzz"
 ]
-Accepted

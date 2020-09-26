@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce2f373d-0b85-4557-8881-13bf4b0fbde5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../1. Two Sum/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1. Two Sum/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../101. Symmetric Tree/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../101. Symmetric Tree/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../102. Binary Tree Level Order Traversal/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../102. Binary Tree Level Order Traversal/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../103. Binary Tree Zigzag Level Order Traversal/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../103. Binary Tree Zigzag Level Order Traversal/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../104. Maximum Depth of Binary Tree/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../104. Maximum Depth of Binary Tree/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../105. Construct Binary Tree from Preorder and Inorder Traversal/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../105. Construct Binary Tree from Preorder and Inorder Traversal/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../108. Convert Sorted Array to Binary Search Tree/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../108. Convert Sorted Array to Binary Search Tree/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11. Container With Most Water/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11. Container With Most Water/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../116. Populating Next Right Pointers in Each Node/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../116. Populating Next Right Pointers in Each Node/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../118. Pascal's Triangle/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../118. Pascal's Triangle/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../121. Best Time to Buy and Sell Stock/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../121. Best Time to Buy and Sell Stock/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../122. Best Time to Buy and Sell Stock II/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../122. Best Time to Buy and Sell Stock II/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../131. Palindrome Partitioning/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../131. Palindrome Partitioning/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../134. Gas Station/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../134. Gas Station/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../136. Single Number/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../136. Single Number/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../138. Copy List with Random Pointer/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../138. Copy List with Random Pointer/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../139. Word Break/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../139. Word Break/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../141. Linked List Cycle/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../141. Linked List Cycle/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../160. Intersection of Two Linked Lists/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../160. Intersection of Two Linked Lists/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../169. Majority Element/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../169. Majority Element/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../17. Letter Combinations of a Phone Number/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../17. Letter Combinations of a Phone Number/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../171. Excel Sheet Column Number/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../171. Excel Sheet Column Number/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../179. Largest Number/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../179. Largest Number/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../189. Rotate Array/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../189. Rotate Array/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19. Remove Nth Node From End of List/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19. Remove Nth Node From End of List/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190. Reverse Bits/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190. Reverse Bits/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../198. House Robber/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../198. House Robber/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2. Add Two Numbers/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2. Add Two Numbers/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20. Valid Parentheses/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20. Valid Parentheses/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../200. Number of Islands/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../200. Number of Islands/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../202. Happy Number/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../202. Happy Number/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../204. Count Primes/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../204. Count Primes/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../206. Reverse Linked List/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../206. Reverse Linked List/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../207. Course Schedule/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../207. Course Schedule/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../208. Implement Trie (Prefix Tree)/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../208. Implement Trie (Prefix Tree)/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21. Merge Two Sorted Lists/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21. Merge Two Sorted Lists/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../215. Kth Largest Element in an Array/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../215. Kth Largest Element in an Array/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../217. Contains Duplicate/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../217. Contains Duplicate/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../22. Generate Parentheses/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../22. Generate Parentheses/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../227. Basic Calculator II/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../227. Basic Calculator II/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../230. Kth Smallest Element in a BST/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../230. Kth Smallest Element in a BST/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../234. Palindrome Linked List/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../234. Palindrome Linked List/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../236. Lowest Common Ancestor of a Binary Tree/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../236. Lowest Common Ancestor of a Binary Tree/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../237. Delete Node in a Linked List/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../237. Delete Node in a Linked List/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../238. Product of Array Except Self/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../238. Product of Array Except Self/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../240. Search a 2D Matrix II/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../240. Search a 2D Matrix II/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../242. Valid Anagram/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../242. Valid Anagram/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../251. Flatten 2D Vector/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../251. Flatten 2D Vector/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../253. Meeting Rooms II/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../253. Meeting Rooms II/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../268. Missing Number/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../268. Missing Number/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../277. Find the Celebrity/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../277. Find the Celebrity/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../279. Perfect Squares/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../279. Perfect Squares/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28. Implement strStr()/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28. Implement strStr()/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../283. Move Zeroes/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../283. Move Zeroes/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../285. Inorder Successor in BST/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../285. Inorder Successor in BST/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../287. Find the Duplicate Number/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../287. Find the Duplicate Number/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../289. Game of Life/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../289. Game of Life/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3. Longest Substring Without Repeating Characters/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3. Longest Substring Without Repeating Characters/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../300. Longest Increasing Subsequence/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../300. Longest Increasing Subsequence/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../322. Coin Change/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../322. Coin Change/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../328. Odd Even Linked List/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../328. Odd Even Linked List/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../33. Search in Rotated Sorted Array/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../33. Search in Rotated Sorted Array/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../334. Increasing Triplet Subsequence/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../334. Increasing Triplet Subsequence/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../34. Find First and Last Position of Element in Sorted Array/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../34. Find First and Last Position of Element in Sorted Array/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../341. Flatten Nested List Iterator/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../341. Flatten Nested List Iterator/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../344. Reverse String/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../344. Reverse String/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../347. Top K Frequent Elements/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../347. Top K Frequent Elements/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../348. Design Tic-Tac-Toe/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../348. Design Tic-Tac-Toe/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../350. Intersection of Two Arrays II/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../350. Intersection of Two Arrays II/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../36. Valid Sudoku/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../36. Valid Sudoku/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../378. Kth Smallest Element in a Sorted Matrix/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../378. Kth Smallest Element in a Sorted Matrix/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../380. Insert Delete GetRandom O(1)/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../380. Insert Delete GetRandom O(1)/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../384. Shuffle an Array/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../384. Shuffle an Array/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../387. First Unique Character in a String/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../387. First Unique Character in a String/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../395. Longest Substring with At Least K Repeating Characters/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../395. Longest Substring with At Least K Repeating Characters/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../412. Fizz Buzz/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../412. Fizz Buzz/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../46. Permutations/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../46. Permutations/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../48. Rotate Image/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../48. Rotate Image/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../49. Group Anagrams/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../49. Group Anagrams/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../53. Maximum Subarray/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../53. Maximum Subarray/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../55. Jump Game/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../55. Jump Game/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../56. Merge Intervals/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../56. Merge Intervals/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../62. Unique Paths/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../62. Unique Paths/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../70. Climbing Stairs/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../70. Climbing Stairs/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../73. Set Matrix Zeroes/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../73. Set Matrix Zeroes/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../75. Sort Colors/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../75. Sort Colors/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../78. Subsets/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../78. Subsets/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../79. Word Search/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../79. Word Search/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../88. Merge Sorted Array/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../88. Merge Sorted Array/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../94. Binary Tree Inorder Traversal/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../94. Binary Tree Inorder Traversal/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../98. Validate Binary Search Tree/problem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../98. Validate Binary Search Tree/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dirgen.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../dirgen.sh" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1hx1ywpnXsWt4MWyzSMdGZeSS1m" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce2f373d-0b85-4557-8881-13bf4b0fbde5" name="Default Changelist" comment="" />
+      <created>1600938186193</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600938186193</updated>
+    </task>
+    <servers />
+  </component>
+</project>
